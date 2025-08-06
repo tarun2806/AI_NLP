@@ -1,0 +1,2 @@
+2025-08-05 21:58:26.010232 | Roast | Input: Hey Baby | Output: You're like a log file: full of details nobody reads. 📃
+2025-08-05 21:58:44.308120 | Roast | Input: Feeling meh | Output: You're a status update that no one reacts to. 💬0
